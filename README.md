@@ -1,4 +1,4 @@
-# how-to
+# How Tos
 List of different How Tos I just want to archive
 
 
