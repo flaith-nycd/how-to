@@ -30,3 +30,16 @@ def debugtest2(what_to_print):
 debugtest(2)
 debugtest2('NEW TEST')
 ```
+
+## RESULT
+
+`$ python Python_Decorator.py`
+```
+---DEBUG START TIME FOR <function debugtest at 0x00000000029AC400>
+---DEBUG END TIME
+---DEBUG TOOK 2.0047 SEC.
+---DEBUG START TIME FOR <function debugtest2 at 0x00000000029AC510>
+NEW TEST
+---DEBUG END TIME
+---DEBUG TOOK 1.5008 SEC.
+```
