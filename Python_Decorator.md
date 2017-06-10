@@ -1,5 +1,5 @@
 # Python Decorator
-```
+```python
 import time
 
 
