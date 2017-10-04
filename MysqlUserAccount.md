@@ -18,7 +18,7 @@ Or
 SELECT * from information_schema.user_privileges;
 ```
 
-## Reset my MySQL password from [Help Ubuntu](https://help.ubuntu.com/community/MysqlPasswordReset)
+## Reset my MySQL password (from [Help Ubuntu](https://help.ubuntu.com/community/MysqlPasswordReset))
 To reset your mysqld password just follow these instructions :
 
 1. Stop the mysql demon process using this command :
