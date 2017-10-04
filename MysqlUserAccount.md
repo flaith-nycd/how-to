@@ -29,7 +29,7 @@ To reset your mysqld password just follow these instructions :
    ```
    sudo /usr/sbin/mysqld --skip-grant-tables --skip-networking &
    ```
-Because you are not checking user privs at this point, it's safest to disable networking. In Dapper, /usr/bin/mysqld... did not work. However, mysqld --skip-grant-tables did.
+__Because you are not checking user privs at this point, it's safest to disable networking. In Dapper, /usr/bin/mysqld... did not work. However, mysqld --skip-grant-tables did.__
 
 1. Start the mysql client process using this command 
    ```
