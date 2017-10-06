@@ -54,8 +54,10 @@ as a user that has all the neccessary read permissions. Take your pick.
 Addendum: I recently bought a new laptop, preinstalled with Vista. I figured I 
 wanted to preserve vista somewhere, in case I wanted to try it out at some point, 
 so the first time I booted the computer (with a linux livecd), I did this:
-`dd if=/dev/sda | ssh 10.0.0.1 "bzip2 > ~/vistadrive.bz2`
+
+```dd if=/dev/sda | ssh 10.0.0.1 "bzip2 > ~/vistadrive.bz2```
 
 This was on a fast local network, of course. Otherwise it would have been more 
 prudent to compress before transmission:
-`dd if=/dev/sda | bzip2 | ssh 10.0.0.1 "cat > ~/vistadrive.bz2`
+
+```dd if=/dev/sda | bzip2 | ssh 10.0.0.1 "cat > ~/vistadrive.bz2```
