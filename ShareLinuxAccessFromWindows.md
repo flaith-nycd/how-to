@@ -1,5 +1,7 @@
 # Share Files Between Windows and Linux (from [How To-Geek](https://www.howtogeek.com/176471/how-to-share-files-between-windows-and-linux/))
 
+_Can check this link too from [linux.com](https://www.linux.com/news/using-samba-share-files-between-linux-and-windows)_
+
 Creating a share on Linux and then accessing it from Windows is actually a bit easier than the other way around. First, we’ll create the shared folder on the Linux system. Then, we’ll look at how to access it from a Windows PC.
 
 ## Step One: Create the Share on Linux
