@@ -15,4 +15,4 @@ List of different How Tos I just want to archive
 
 ## Network
 * [Share Files Between Windows and Linux](https://github.com/flaith-nycd/how-to/blob/master/assets/ShareLinuxAccessFromWindows.md)
-* [Access Network Ffolders Without Mapping With CMD.md](https://github.com/flaith-nycd/how-to/blob/master/assets/AccessNetworkFoldersWithoutMappingWithCMD.md)
+* [Access Network Folders Without Mapping With CMD.md](https://github.com/flaith-nycd/how-to/blob/master/assets/AccessNetworkFoldersWithoutMappingWithCMD.md)
